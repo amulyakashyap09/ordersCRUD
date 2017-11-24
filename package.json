@@ -1,0 +1,16 @@
+{
+  "name": "quizongraph",
+  "version": "1.0.0",
+  "description": "quiz",
+  "main": "a8.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "hapi": "^16.6.2",
+    "mongoose": "^4.13.4"
+  }
+}
